@@ -3,7 +3,7 @@ I'm a Mechanical Engineer who has worked for 10+ years in the Construction / Oil
 <br/><br/>
 The field of Cybersecurity has always intrigued me due to its nature of constant evolution as what you practice now won’t be the norm tomorrow. Hence, I dedicate a lot of my free time to learning and updating myself. I believe my strengths and values mentioned above would greatly support the security goals of any organization in which I would myself working in. As part of my desire to switch careers, I am looking for an entry-level cybersecurity position that will utilize my drive and thirst for knowledge.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
