@@ -1,4 +1,7 @@
 <h1>Hi, I'm Kiren! </h1>
+I'm a Mechanical Engineer who has worked for 10+ years in the Construction / Oil & Gas Industry. I am enthusiastic about information security and enjoy finding solutions to security problems that can positively impact an organization and the people it serves. I places a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk. I also makes sure to manage my time according to the tasks that needs completion based on their priorities. I also adhere to the value of law when doing my tasks and make sure there is no violation of the law in my work.
+<br/><br/>
+The field of Cybersecurity has always intrigued me due to its nature of constant evolution as what you practice now won’t be the norm tomorrow. Hence, I dedicate a lot of my free time to learning and updating myself. I believe my strengths and values mentioned above would greatly support the security goals of any organization in which I would myself working in. As part of my desire to switch careers, I am looking for an entry-level cybersecurity position that will utilize my drive and thirst for knowledge.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
