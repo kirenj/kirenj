@@ -8,7 +8,7 @@ The field of Cybersecurity has always intrigued me due to its nature of constant
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - Various Projects
 
 <h2> Certifications</h2>
 
