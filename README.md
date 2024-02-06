@@ -5,8 +5,6 @@ The field of Cybersecurity has always intrigued me due to its nature of constant
 
 <h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - Various Projects
 
